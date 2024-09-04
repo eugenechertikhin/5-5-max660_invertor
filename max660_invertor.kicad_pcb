@@ -1076,6 +1076,32 @@
 		(layer "Edge.Cuts")
 		(uuid "62f44ce0-9d80-4b75-9d8e-a29b866b2a48")
 	)
+	(gr_text "+5"
+		(at 145.884627 79.621867 0)
+		(layer "F.Cu")
+		(uuid "325c9493-db15-436a-90f4-0b4f1a5d9574")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-5"
+		(at 145.223665 94.534815 0)
+		(layer "F.Cu")
+		(uuid "7a10456c-3212-4f9a-a8b1-c88a2da5e725")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 145.5625 81)
 		(end 147 82.4375)
